@@ -28,3 +28,12 @@ I won't give out my calculus notes. I plan on selling those, sorry (there the pu
 Enjoy!
 
 ~ Unhinged Feral Engineer
+
+
+
+
+
+
+
+
+Edit: Your gonna need to --shell-escape to render some of these, as well as remove the memory cap for latex or MikTex or whatever as the figures go far beyond it
