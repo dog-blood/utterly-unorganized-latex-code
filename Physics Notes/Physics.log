@@ -1,0 +1,19 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.12.4)  15 DEC 2023 01:17
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**Updated-figure10 \def\tikzexternalrealjob{Physics Updated}\input{Physics Upda
+ted}
+! Emergency stop.
+<*> Updated-figure10 
+                     \def\tikzexternalrealjob{Physics Updated}\input{Physics...
+ 
+Here is how much of TeX's memory you used:
+ 3 strings out of 475248
+ 34 string characters out of 5757813
+ 1917801 words of memory out of 12000000
+ 21631 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 0i,0n,0p,1b,6s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
