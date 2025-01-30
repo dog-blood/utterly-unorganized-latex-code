@@ -6,34 +6,12 @@ latex code from my first year of engineering.
 
 most of this code is mine. some stuff is a hodgpotch of random solutions i found on the internet. Some of it was thrown together with chatGPT and a fuckton of tweaking
 
-i am an incredibley unorganized and messy coder. I bruteforce things till they work. I tend to have no idea what I am doing half the time lol.
-
-sorry if you have issues understanding or the code or rendering it. I don't have time to make it look pretty. Feel free to do so if you want to
 
 
+This code is some of my earlier work, and I don't think its representative of my current skill's. Nonetheless the attention it got was a big inspiration for me so thank you all!
 
-I wasn't gonna upload any of this because I am protective over my work. I spent enormous amounts of time learning LaTex
-and perfecting my designs. However, due to popular demand, I have caved. 
 
-I won't give out my calculus notes. I plan on selling those, sorry (there the purple ones if you come from reddit)
+You will have memory limit issues trying to compile, and you'll need shell escape for certain things.
 
 
 
-
-
-
-
-
-
-Enjoy!
-
-~ Unhinged Feral Engineer
-
-
-
-
-
-
-
-
-Edit: Your gonna need to --shell-escape to render some of these, as well as remove the memory cap for latex or MikTex or whatever as the figures go far beyond it
